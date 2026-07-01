@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0110/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 釋迦文尼佛金剛一乘修行儀軌法品
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0938.xml
+    old_id: T19n0938
+hash: sha256:6130017fd8c66ec527be9d1d8090fef956f21ae620992303b84216aa65e44c87
