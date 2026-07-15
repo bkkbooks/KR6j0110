@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0110/v1
 canonical_location: https://kanripo.org/bkk/KR6j0110/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 釋迦文尼佛金剛一乘修行儀軌法品
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0110_000.yaml, hash: 'sha256:6130017fd8c66ec527be9d1d8090fef956f21ae620992303b84216aa65e44c87'}
-  - {seq: 1, filename: KR6j0110_001.yaml, hash: 'sha256:988091f08ea5643abe2232de2638a9f1cf5880b43df6efe8a9c24b8cf9cf03cb'}
+  - {seq: 1, filename: KR6j0110_001.yaml, hash: 'sha256:8b352df9569991ad88aba391ceb44120c19a34bcf53bd004947c93c12af1724a'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0110_000.markers.yaml, hash: 'sha256:84b865ddccab4b18b2b3c9651a59f2258cb7bbea1af398143e40e3922f2cb0bd'}
-  - {seq: 1, role: markers, filename: assets/KR6j0110_001.markers.yaml, hash: 'sha256:0734dde6b01e08ed1013c76249fd926e2e11c10572d3a342701e68220728bec1'}
+  - {seq: 1, role: markers, filename: assets/KR6j0110_001.markers.yaml, hash: 'sha256:15f286057c032128b72f7dee056516631d14756daee145a3bb7382ed33c092b5'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,4 +48,7 @@ table_of_contents:
     軌法品一卷'
   type: juan
   level: 1
-hash: sha256:7490aa52145f00c198f43a901aeecbb93ee5a2d4d1798db247e9478714d64968
+hash: sha256:0f071326f6ecb6827ed3bcac1460ba28b6b45a134c7c1cd1ed7b2adf1925b42d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
